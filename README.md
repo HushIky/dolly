@@ -16,4 +16,5 @@ python -m venv .venv
 . .venv/bin/activate
 pip install -r requirements_dev.txt
 ./run_pytest.sh
+//test
 ```
